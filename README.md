@@ -1,5 +1,3 @@
-import pandas as pd
-
 # Load cleaned Excel file
 df = pd.read_excel("hasil_filter.xlsx")
 
